@@ -2,7 +2,7 @@
 
 100DaysOfCode Day-to-Day Progress
 ###### Day 1
-Solved 3 Beginner 'Easy' Java Challenges on Hackerrank 
-*Java Stdin and Stdout I
-*Java If-Else
-*Java Stdin and Stdout II
+Solved 3 Beginner 'Easy' Java Challenges on Hackerrank <br>
+*Java Stdin and Stdout I<br>
+*Java If-Else<br>
+*Java Stdin and Stdout II<br>
