@@ -19,3 +19,5 @@ Youtube: Telusko <br>
 *JDK Set Up<br>
 *First Code In Java<br>
 *How Java Works<br>
+###### Day 5 28 Jun 23
+*Begun creating a codepen 'CV' in HTML/CSS for Charlotte Tillbury<br>
