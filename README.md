@@ -21,3 +21,8 @@ Youtube: Telusko <br>
 *How Java Works<br>
 ###### Day 5 28 Jun 23
 *Begun creating a codepen 'CV' in HTML/CSS for Charlotte Tillbury<br>
+
+2 0 2 4
+
+###### Day 1 20 Jun 24
+*Puzzle a Day Java Answers* 
